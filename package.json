@@ -1,0 +1,15 @@
+{
+  "name": "aside-navigation",
+  "version": "1.0.0",
+  "description": "aside-navigation",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile:sass": "node-sass main.scss main.css -w"
+  },
+  "author": "Ado Dragicevic",
+  "license": "ISC"
+}
