@@ -3,7 +3,7 @@
 ## Expandable sidebar navigation made with SASS and JS :desktop_computer:
 
 ### Visit it on Vercel
-https://nav-plum.vercel.app/
+https://nav-adodragicevic.vercel.app/
 
 ### Using
 * Sass / Scss
