@@ -7,6 +7,9 @@ body {
   background-color: #e2e9f7;
   font-family: sans-serif; }
 
+a {
+  -webkit-tap-highlight-color: transparent; }
+
 .nav {
   position: fixed;
   left: 0;
